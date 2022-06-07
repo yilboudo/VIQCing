@@ -1,9 +1,10 @@
-Package: myUtils
-Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Package: VIQCing
+Type: Package
+Title: Data Processing For Metabolomic Data
+Version: 0.1.1
+Description: Pipeline for Quality control, Imputation and data visualization for Metabolomic data
+Authors@R: Aurelie Guilbault, Yann Ilboudo
+License: None
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
