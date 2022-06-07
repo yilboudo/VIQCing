@@ -15,7 +15,7 @@ VIQCing
           - [Violin Plots](#violin-plots)
           - [Correlation](#correlation)
       - [Utility Functions for WGCNA](#utility-functions-for-wgcna-analysis)
-          - [Regressions](#regresions)
+          - [WGCNA pipeline for SCD](#wgcna pipeline)
   - [Contact and feedback](#contact-and-feedback)
   - [Citation](#citation)
 
@@ -381,5 +381,5 @@ Output file “dummySet\_pairs.txt” :
     ## 3   Education_NA Examination_NA  0.6746038 1.998543e-07
 
 
-###Utility Functions for WGCNA
-
+### Utility Functions for WGCNA
+![WGCNA Rmarkdown Report](WGCNA_Analysis_Summary.html)
