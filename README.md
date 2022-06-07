@@ -15,7 +15,7 @@ VIQCing
           - [Violin Plots](#violin-plots)
           - [Correlation](#correlation)
       - [Utility Functions for WGCNA analysis](#utility-functions-for-wgcna-analysis)
-          - [Regressions] (#regresions)
+          - [Regressions](#regresions)
   - [Contact and feedback](#contact-and-feedback)
   - [Citation](#citation)
 
