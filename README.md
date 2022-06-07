@@ -14,8 +14,8 @@ VIQCing
       - [Data Visualization](#data-visualization)
           - [Violin Plots](#violin-plots)
           - [Correlation](#correlation)
-      - [Utility functions for WGCNA analysis]
-          -[Regressions] (#regresions)
+      - [Utility Functions for WGCNA analysis](#utility-functions-for-wgcna-analysis)
+          - [Regressions] (#regresions)
   - [Contact and feedback](#contact-and-feedback)
   - [Citation](#citation)
 
@@ -379,3 +379,7 @@ Output file “dummySet\_pairs.txt” :
     ## 1 Examination_NA   Fertility_NA -0.6609030 4.281527e-07
     ## 2   Education_NA Agriculture_NA -0.6504638 7.457269e-07
     ## 3   Education_NA Examination_NA  0.6746038 1.998543e-07
+
+
+###Utility Functions for WGCNA
+
